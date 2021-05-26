@@ -59,4 +59,14 @@ input.search-bar {
 
 h1.temp {
     margin: 0;
+    margin-bottom: 0.4em;
+}
+.descripton{
+    text-transform: capitalize;
+}
+
+
+.flex {
+    display: flex;
+    align-items: center;
 }
